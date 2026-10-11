@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_SauceDemo_E2E_Flow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e70657b3-0a49-4b7e-ac13-f81bd14defc7</testCaseGuid>
+</TestCaseEntity>
